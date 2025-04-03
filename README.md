@@ -1,5 +1,5 @@
 # (Youtubedl) YouTube Downloader Web App Installation Guide
-Self-hosted web GUI for yt-dlp . Youtube URL MP4 downloader
+Self-hosted web GUI for yt-dlp. Youtube URL MP4 downloader
 
 ## Overview
 This web application allows users to download YouTube videos in various quality formats through a browser interface. It uses Flask as the web server, connects to YouTube for video information, and uses yt-dlp and ffmpeg to download and process videos.
